@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './App.css';
 
 import Routes from './routes';
@@ -10,12 +10,5 @@ function App() {
 }
 
 export default App;
-// class App extends Component {
-//   render() {
-//     return (
-//       <img></img>
-//     );
-//   }
-// }
 
 
