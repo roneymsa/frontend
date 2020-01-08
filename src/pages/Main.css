@@ -61,3 +61,10 @@
     transform: translate(0, -5px);
     transition: all 0.2s;
 }
+
+.main-container .empty{
+    font-size: 32x;
+    color: #999;
+    font-weight: bold;
+    margin-top: 300px;
+}
